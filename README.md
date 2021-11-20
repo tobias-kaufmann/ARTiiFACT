@@ -31,7 +31,7 @@ The software was developed in Matlab, yet no Matlab license is required.
 
 ## Warranty and support
 
-**NB! ARTiiFACT is provided "as-is" and comes without warranty of any kind.** After >8 years of user support, we have now closed the support.
+**NB! ARTiiFACT is provided "as-is" and comes without warranty of any kind.** After 10 years of user support, we have now closed the support.
 
 
 
