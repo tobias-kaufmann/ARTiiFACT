@@ -3,7 +3,8 @@
 ```diff
 ! After we shared ARTiiFACT for >8 years via www.artiifact.de, we closed artiifact.de
 ! After 10 years of active user support, we do no longer provide an active support.
-+ ARTiiFACT can now be downloaded from this github repository (provided as-is, without warranty or support).
++ ARTiiFACT can now be downloaded from this github repository free of charge.
+! ARTiiFACT is provided as-is, without warranty or support.
 ```
 
 ## Features
